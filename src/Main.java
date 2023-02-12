@@ -1,10 +1,18 @@
 import cuentas.CCuenta;
 
+/**
+ * 
+ * @author Perez
+ *
+ */
+
+
 public class Main {
 
     public static void main(String[] args) {
         operativa_cuenta(0.0);
     }
+
 
 	/**
 	 * @param cantidad TODO
