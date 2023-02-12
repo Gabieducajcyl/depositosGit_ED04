@@ -10,7 +10,7 @@ public class Main {
 	 * @param cantidad TODO
 	 * 
 	 */
-	public static void operativa_cuenta(float cantidad) {
+	public static void operativa_cuenta(double cantidad) {
 		CCuenta cuenta1;
         double saldoActual;
 
